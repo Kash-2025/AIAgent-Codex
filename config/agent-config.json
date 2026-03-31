@@ -1,0 +1,16 @@
+{
+  "agentName": "CodexAgent",
+  "localRoot": "C:\\AIAgent-Codex",
+  "awsProfile": "codex-agent",
+  "s3Bucket": "kash-codex-workspace",
+  "paths": {
+    "memory": "memory/",
+    "logs": "logs/",
+    "prompts": "prompts/",
+    "scripts": "scripts/",
+    "projects": "projects/"
+  },
+  "files": {
+    "taskLog": "tasks-log.json"
+  }
+}
