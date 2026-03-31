@@ -1,7 +1,15 @@
-{
-    "id":  "56224e46-4ad5-4f64-b56e-b1fc1ea86990",
-    "task":  "Connect ChatGPT, AWS and GitHub agent memory",
-    "status":  "done",
-    "createdAt":  "2026-03-31T02:48:59",
-    "updatedAt":  "2026-03-31T02:55:47"
-}
+[
+    {
+        "id":  "56224e46-4ad5-4f64-b56e-b1fc1ea86990",
+        "task":  "Connect ChatGPT, AWS and GitHub agent memory",
+        "status":  "done",
+        "createdAt":  "2026-03-31T02:48:59",
+        "updatedAt":  "2026-03-31T02:55:47"
+    },
+    {
+        "id":  "f815bfa6-9855-4c1d-a409-6bde5a3ed554",
+        "task":  "Something new",
+        "status":  "pending",
+        "createdAt":  "2026-03-31T02:58:10"
+    }
+]
